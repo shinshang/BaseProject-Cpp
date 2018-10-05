@@ -3,5 +3,6 @@
 
 int addNumber(int a, int b);
 int getTriangleType(int a, int b, int c);
+int testlala(int a,int b,int c);
 
 #endif // MAIN_H_INCLUDED
